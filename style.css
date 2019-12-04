@@ -40,6 +40,13 @@ body {
        hyphens: none;
   
     }
+  @media only screen and (max-width: 760px) {
+      .post {
+         padding: 00px;
+         padding-bottom: 50px;
+         text-align: justify;
+         hyphens: none;
+      }
 }
 @media only screen and (max-width: 600px) {
   .post {
