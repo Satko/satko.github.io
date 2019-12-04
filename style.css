@@ -16,6 +16,14 @@ body {
     text-decoration: none;
     color: rgb(44, 44, 44);
 }
+@media only screen and (max-width: 1920px) {
+  .post {
+     padding: 200px;
+     padding-bottom: 50px;
+     text-align: justify;
+     hyphens: none;
+  }
+}
 @media only screen and (max-width: 1440px) {
   .post {
      padding: 150px;
