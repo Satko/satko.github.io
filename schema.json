@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://satko.github.io/mobile-friendly.html"
+  },
+  "headline": "Mobile Friendly Sites",
+  "description": "Mobile Friendly Sites are important so your users have the best experience no matter what device they use to view your website on.",
+  "image": "",  
+  "author": {
+    "@type": "Person",
+    "name": "Sadmin Durmishi"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "SADTECH",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "",
+      "width": ,
+      "height": 
+    }
+  },
+  "datePublished": "2019-12-01",
+  "dateModified": "2019-12-04"
+}
+</script>
