@@ -25,7 +25,7 @@ body {
   }
 }
 @media only screen and (max-width: 1440px) {
-  .post {
+    .post {
      padding: 250px;
      padding-bottom: 200px;
      text-align: justify;
@@ -33,7 +33,7 @@ body {
   }
 }
 @media only screen and (max-width: 1400px) {
-  .post {
+    .post {
      padding: 250px;
      padding-bottom: 300px;
      text-align: justify;
@@ -42,21 +42,21 @@ body {
   }
 }
 @media only screen and (max-width: 1200px) {
-    .post {
+   .post {
        padding: 200px;
        padding-bottom: 300px;
        text-align: justify;
        hyphens: none;
   
-    }
+  }
 }
 @media only screen and (max-width: 760px) {
-      .post {
+  .post {
          padding: 60px;
          padding-bottom: 50px;
          text-align: justify;
          hyphens: none;
-      }
+  }
 }
 @media only screen and (max-width: 600px) {
   .post {
