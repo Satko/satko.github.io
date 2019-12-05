@@ -4,25 +4,31 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 <url>
   <loc>https://satko.github.io/</loc>
-  <lastmod>2019-12-04T18:26:35+00:00</lastmod>
+  <lastmod>2019-12-05T22:02:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://satko.github.io/index.html</loc>
-  <lastmod>2019-12-04T18:26:35+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://satko.github.io/blog.html</loc>
-  <lastmod>2019-12-04T18:26:35+00:00</lastmod>
+  <lastmod>2019-12-05T22:02:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://satko.github.io/mobile-friendly.html</loc>
-  <lastmod>2019-12-04T18:26:35+00:00</lastmod>
-  <priority>0.64</priority>
+  <lastmod>2019-12-05T22:02:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://satko.github.io/seo-in-2020.html</loc>
+  <lastmod>2019-12-05T22:02:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://satko.github.io/local-seo.html</loc>
+  <lastmod>2019-12-05T22:02:39+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
