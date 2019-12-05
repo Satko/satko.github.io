@@ -2,17 +2,63 @@ POST 1:Mobile Friendly Sites
 
 <h1>Mobile Friendly Sites</h1>
 <br><br>
-<p>In recent years, every article or tutorial about web development you might have seen, probably mentioned 
-that your site should be mobile friendly, but why is that? After these devices that we call smartphones took 
-over our lives and the  world, somewhere around 2014, Google saw an ever increasing customer base viewing pages 
-from their mobile devices. Although there were a lot of mobile-friendly sites out there, not all of them were 
-really optmized for mobile. Since Google is kind of, the 'boss' when it comes to the presentation of the 
-internet, they've decided in order to support this booming new mobile world, that every website should be 
-ompimized for a handheld device, just as it is for desktops. Anyone not following these guidlines, gets 
-punished by the Google crawler and indexing algorithms and their ranking on SERP takes the blow. 
-Now you know why it is so, let's explore 'why you should be doing it! Mobile-friendly indexing is all the 
-rage these days. If you get on this train early, Google will 'reward' you by pushing your content higher on 
-the SERP 
+<p>Smartphones have changed the world and still continue to do. This had a huge effect on the Web, especially. With Smartphones overtaking Personal Computers in a lot of countries all over the world.
+So, in 2015, Google, in order to motivate people to start developing their websites with mobile being the first thing to optimize for, started to reward websites that were built with Mobile Friendliness in mind.
+<br>
+<br>
+<blockquote cite="https://www.inc.com/samuel-edwards/it-s-official-google-to-reward-mobile-friendly-websites.html">
+On February 26, Google made an important two-part announcement on its official blog. While the overall takeaway is that Google wants websites to be 
+mobile-friendly, there are two important changes to understand:
+More mobile-friendly websites in search results.
+More relevant app content in search results.
+Now, it's important to understand that Google is not referring to desktop rankings. This announcement is in reference to mobile search rankings,
+specifically. However, there is a lot of speculation from reputable sources that mobile-friendliness will impact desktop rankings in the near future, as well.
+It's also unclear whether or not Google will be adjusting its rankings on a page-by-page or site-wide basis. This could be an important distinction 
+for websites that have separate mobile sites or versions. The safest way for site owners to ensure they're properly optimized is to pay attention to 
+all site pages.
+According to Robert Ramirez, SEO Manager at Bruce Clay, Inc., this announcement is critical for everyone and ultimately points towards the need to adopt 
+responsive design. "As Google's preferred method of serving content to mobile users, we can assume that responsive sites will be favored by Google in 
+search results going forward, and this is the first real step in that process," Ramirez said. Furthermore, he suggests that if it's not possible to make 
+your site responsive by April 21, you should--at the very least--address the deficiencies of your existing mobile solution.
+</blockquote>
+<br>
+<br>
+This had a huge effect on the Dev world. And today, in 2020, if your website is not optimized for Handheld devices, it may take a hit in ranking due to 
+Google policies that enforce these rules. Even if its ranking is not affected, it's a bad practice to have a website, no matter what it's purpose is in 2020 
+without optimizing it for Mobile devices. If you don't, you'll be missing out on a lot of benefits, like increased link authority, rank and an ever-growing customer base.
+A lot of people started to focus on how to best optimize their websites so they can be displayed right no matter what device they were viewed from, and 
+this encouraged people to build and come up with all kinds of software-based solutions with frameworks like Bootstrap, a CSS frameworks which utilizes 
+HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc. Which I use on this site. 
+There also a ton of JavaScript and TypeScript frameworks that enable fast and smooth web development like Express, React, Angular, Vue and many more. 
+JavaScript is not the only language with a big focus on web development... There are also frameworks for Python, PHP, Ruby, and others. Which one you will 
+use, is up to your preferences. - Now, I don't have any experience with any of the programming language based frameworks afro mentioned so, take this information 
+with a pinch of salt. I'm sure that if some experienced developers are reading this they'll be laughing. But hey, I'm open to feedback so, feel free to contact me to correct the information.
+You see, all of these solutions were made to make it easier for software and web developers, without having to set them up from zero, you should really be taking advantage of them. If you are a developer that is.
+<br>
+<br>
+<blockquote cite="from https://developers.google.com/search/mobile-sites">How much does it cost to build a site for mobile devices?
+It varies. For example, here are some of the possibilities:
+Going mobile can be free if you can select a responsive template or theme for your website. A responsive template or theme adapts the display to the 
+visitor no matter if they are using a desktop, tablet, or mobile phone.
+Going mobile can be free if you have the technical skills to build your mobile site. Check out Web Fundamentals.
+Going mobile will likely cost time and money if you need to hire a developer. Furthermore, if your website was created several years ago, a new developer 
+might recommend starting from scratch (so you'll be paying for a complete makeover). This is because there are new web development techniques 
+and themes (or page templates) that may make it more efficient to re-do -- rather than modify -- your site. This is especially the case for sites:
+ -Built with Flash
+ -Using outdated e-commerce platforms
+The good news is that if you start from scratch there may be an existing template or theme that you can utilize. You may be able to reuse your 
+existing content which can hopefully save time and money.
+</blockquote>
+<br>
+<br>
+So, as you can see, it's not difficult to change a desktop-oriented site into a mobile-friendly one, if you can do it yourself, you should 
+do so asap. If not, you can pay a developer to that for you. The point is, your website has to be mobile-friendly as smartphones are getting 
+more accessible and people are more likely to buy one instead of buying a personal computer.
+According to Google: In the USA, 94% of people with smartphones search for local information on their phones. Interestingly, 77% of mobile 
+searches occur at home or at work, places where desktop computers are likely to be present.
+<br>
+<br>
+Now about the actual impact it has on SEO.
 
 
 
