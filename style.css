@@ -85,6 +85,12 @@ p{
      hyphens: none;
   }
 }
+.quote{
+  border-style: solid;
+  border-width: 5px;
+  border-color: dimgray;
+}
+
 /*footer*/
 .social-footer{
   text-align:center
