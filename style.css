@@ -63,15 +63,15 @@ p{
 }
 @media only screen and (max-width: 600px) {
   .post {
-     padding: 30px;
-     padding-bottom: 200px;
+     padding: 20px;
+     padding-bottom: 50px;
      text-align: justify;
      hyphens: none;
   }
 }
 @media only screen and (max-width: 300px) {
   .post {
-     padding: 20px;
+     padding: 10px;
      padding-bottom: 50px;
      text-align: justify;
      hyphens: none;
