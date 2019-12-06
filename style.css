@@ -21,7 +21,9 @@ p{
 }
 @media only screen and (max-width: 2560px) {
   .post {
-     padding: 450px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
      padding-bottom: 200px;
      text-align: justify;
      hyphens: none;
@@ -29,7 +31,9 @@ p{
 }
 @media only screen and (max-width: 1440px) {
     .post {
-     padding: 250px;
+      padding-left: 150px;
+      padding-right: 150px;
+      padding-top: 50px;
      padding-bottom: 200px;
      text-align: justify;
      hyphens: none;
@@ -37,7 +41,9 @@ p{
 }
 @media only screen and (max-width: 1400px) {
     .post {
-     padding: 250px;
+      padding-left: 125px;
+      padding-right: 125px;
+      padding-top: 50px;
      padding-bottom: 300px;
      text-align: justify;
      hyphens: none;
@@ -46,7 +52,9 @@ p{
 }
 @media only screen and (max-width: 1200px) {
    .post {
-       padding: 200px;
+       padding-left: 100px;
+       padding-right: 100px;
+       padding-top: 50px;
        padding-bottom: 300px;
        text-align: justify;
        hyphens: none;
