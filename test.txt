@@ -60,7 +60,7 @@ searches occur at home or at work, places where desktop computers are likely to 
 <br>
 Now about the actual impact it has on SEO.
 
-
+font-size:14.25px;font-family:nyt-franklin,helvetica,arial,sans-serif;font-weight:700; ---> NY Times font
 
 </p>
 
