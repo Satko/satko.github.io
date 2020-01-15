@@ -1,5 +1,4 @@
 User-agent: *
-Disallow:
 Sitemap: https://satko.github.io/sitemap.xml
 
 # if humans rule the earth, then why are there no humans.txt ? 
