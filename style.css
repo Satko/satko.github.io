@@ -112,6 +112,9 @@ p{
   clear: both;
   display: table;
 }
+.citation{
+  background-color: violet;
+}
 
 /*footer*/
 .social-footer{
