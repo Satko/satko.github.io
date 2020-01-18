@@ -68,9 +68,6 @@ p{
          text-align: justify;
          hyphens: none;
   }
-  .column {
-    width: 100%;
-}
 }
 @media only screen and (max-width: 600px) {
   .post {
@@ -79,9 +76,6 @@ p{
      text-align: justify;
      hyphens: none;
   }
-  .column {
-    width: 100%;
-}
 }
 @media only screen and (max-width: 300px) {
   .post {
@@ -90,9 +84,11 @@ p{
      text-align: justify;
      hyphens: none;
   }
+}
+@media screen and (max-width: 500px) {
   .column {
     width: 100%;
-}
+  }
 }
 .column {
   float: left;
