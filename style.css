@@ -68,6 +68,9 @@ p{
          text-align: justify;
          hyphens: none;
   }
+  .column {
+    width: 100%;
+}
 }
 @media only screen and (max-width: 600px) {
   .post {
@@ -76,6 +79,9 @@ p{
      text-align: justify;
      hyphens: none;
   }
+  .column {
+    width: 100%;
+}
 }
 @media only screen and (max-width: 300px) {
   .post {
@@ -84,6 +90,9 @@ p{
      text-align: justify;
      hyphens: none;
   }
+  .column {
+    width: 100%;
+}
 }
 .quote{
   border-style: solid;
