@@ -14,7 +14,7 @@ body {
    a:hover, a:visited, a:link, a:active
 {
     text-decoration: none;
-    color: rgb(66, 116, 224);
+    color: rgb(44, 44, 44);
 }
 p{
   line-height:1.5
