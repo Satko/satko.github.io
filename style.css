@@ -21,20 +21,20 @@ p{
 }
 @media only screen and (max-width: 1440px) {
     .post {
-    padding-left: 320px;
-    padding-right: 320px;
+    padding-left: 400px;
+    padding-right: 400px;
     padding-top: 50px;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
     text-align: justify;
     hyphens: none;
   }
 }
 @media only screen and (min-width: 1200px) {
     .post {
-    padding-left: 320px;
-    padding-right: 320px;
+    padding-left: 350px;
+    padding-right: 350px;
     padding-top: 50px;
-    padding-bottom: 300px;
+    padding-bottom: 100px;
     text-align: justify;
     hyphens: none;
 
@@ -42,10 +42,10 @@ p{
 }
 @media only screen and (min-width: 992px) {
    .post {
-    padding-left: 2700px;
-    padding-right: 270px;
+    padding-left: 300px;
+    padding-right: 300px;
     padding-top: 50px;
-    padding-bottom: 300px;
+    padding-bottom: 100px;
     text-align: justify;
     hyphens: none;
   
@@ -53,8 +53,10 @@ p{
 }
 @media only screen and (max-width: 760px) {
   .post {
-    padding: 20px;
-    padding-bottom: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 100px;
     text-align: justify;
     hyphens: none;
   }
