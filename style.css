@@ -51,7 +51,7 @@ p{
   
   }
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 768px) {
   .post {
     padding-left: 250px;
     padding-right: 250px;
