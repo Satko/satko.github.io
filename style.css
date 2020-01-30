@@ -19,76 +19,56 @@ body {
 p{
   line-height:1.5
 }
-@media only screen and (max-width: 2560px) {
-  .post {
-    padding-left: 500px;
-    padding-right: 500px;
-    padding-top: 50px;
-     padding-bottom: 200px;
-     text-align: justify;
-     hyphens: none;
-  }
-}
 @media only screen and (max-width: 1440px) {
     .post {
-      padding-left: 320px;
-      padding-right: 320px;
-      padding-top: 50px;
-     padding-bottom: 200px;
-     text-align: justify;
-     hyphens: none;
+    padding-left: 320px;
+    padding-right: 320px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    text-align: justify;
+    hyphens: none;
   }
 }
-@media only screen and (max-width: 1400px) {
+@media only screen and (min-width: 1200px) {
     .post {
-      padding-left: 320px;
-      padding-right: 320px;
-      padding-top: 50px;
-     padding-bottom: 300px;
-     text-align: justify;
-     hyphens: none;
+    padding-left: 320px;
+    padding-right: 320px;
+    padding-top: 50px;
+    padding-bottom: 300px;
+    text-align: justify;
+    hyphens: none;
 
   }
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (min-width: 992px) {
    .post {
-       padding-left: 2700px;
-       padding-right: 270px;
-       padding-top: 50px;
-       padding-bottom: 300px;
-       text-align: justify;
-       hyphens: none;
+    padding-left: 2700px;
+    padding-right: 270px;
+    padding-top: 50px;
+    padding-bottom: 300px;
+    text-align: justify;
+    hyphens: none;
   
   }
 }
 @media only screen and (max-width: 760px) {
   .post {
-         padding: 20px;
-         padding-bottom: 50px;
-         text-align: justify;
-         hyphens: none;
+    padding: 20px;
+    padding-bottom: 50px;
+    text-align: justify;
+    hyphens: none;
   }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 576px) {
   .post {
-     padding: 20px;
-     padding-bottom: 50px;
-     text-align: justify;
-     hyphens: none;
+    padding: 20px;
+    padding-bottom: 50px;
+    text-align: justify;
+    hyphens: none;
   }
-}
-@media only screen and (max-width: 300px) {
-  .post {
-     padding: 20px;
-     padding-bottom: 50px;
-     text-align: justify;
-     hyphens: none;
-  }
-}
-@media screen and (max-width: 500px) {
   .column {
     width: 100%;
-  }
+}
 }
 .column {
   float: left;
