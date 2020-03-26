@@ -65,9 +65,18 @@ p{
   
   }
 }
+@media only screen and (max-width: 900px) {
+  .post {
+    padding: 40px;
+    padding-bottom: 50px;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
+  }
+}
 @media only screen and (max-width: 800px) {
   .post {
-    padding: 20px;
+    padding: 30px;
     padding-bottom: 50px;
     text-align: justify;
     text-justify: inter-word;
