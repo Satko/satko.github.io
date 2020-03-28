@@ -6,10 +6,10 @@ html, body {
 }
 body {
   background-color: rgb(253, 253, 245);
-  font-family: knowledge-regular, sans-serif;
+  font-family: freight-semibold,serif;
   font-size: 16px;
   line-height:1.5;
-  font-weight: 500;
+  font-weight: 400;
   color: rgb(44, 44, 44);
    }
    a:hover, a:visited, a:link, a:active
