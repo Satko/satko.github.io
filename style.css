@@ -6,10 +6,10 @@ html, body {
 }
 body {
   background-color: rgb(253, 253, 245);
-  font-family: lato-regular,sans-serif;
-  font-size: 14.5px;
+  font-family: lato,sans-serif;
+  font-size: 15px;
   line-height:1;
-  font-weight: 400;
+  font-weight: 500;
   color: rgb(44, 44, 44);
    }
    a:hover, a:visited, a:link, a:active
