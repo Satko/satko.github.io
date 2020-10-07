@@ -6,8 +6,13 @@ Add Contact page
 Clean up the home page, add some animation
 Clean up the about page, make it just about SADSTORM, transfer the text from the Home Page and Improve it
 
+Build a website/ app that asks, when first visited, what your interests are, then connects you to another
+random stranger with similar interests, to discuss.
 
 Local SEO
+
+
+
 
 
 
