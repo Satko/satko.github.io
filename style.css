@@ -55,6 +55,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 1440px) {
@@ -67,6 +68,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 1400px) {
@@ -79,7 +81,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
-
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 1200px) {
@@ -92,7 +94,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
-  
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -103,6 +105,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 900px) {
@@ -113,6 +116,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 800px) {
@@ -123,6 +127,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -133,6 +138,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media only screen and (max-width: 300px) {
@@ -143,6 +149,7 @@ p{
     font-style: normal;
     font-weight: 400;
     white-space: pre;
+    text-align: justify;
   }
 }
 @media screen and (max-width: 500px) {
