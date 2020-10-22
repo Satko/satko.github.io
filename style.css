@@ -42,6 +42,12 @@ body {
   content: "";
   background-color: rgba(0,0,0,0);
 }
+.preformatted {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  white-space: pre;
+}
 p{
   line-height:1.5
 }
