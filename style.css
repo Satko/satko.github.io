@@ -60,8 +60,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 1440px) {
@@ -73,8 +74,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 1400px) {
@@ -86,8 +88,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 1200px) {
@@ -99,8 +102,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 1000px) {
@@ -110,8 +114,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 900px) {
@@ -121,8 +126,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 800px) {
@@ -132,8 +138,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -143,8 +150,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media only screen and (max-width: 300px) {
@@ -154,8 +162,9 @@ p{
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    white-space: pre;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: none;
   }
 }
 @media screen and (max-width: 500px) {
