@@ -121,8 +121,8 @@ promote your shop by adding photos or videos.
 
 
 
-
-
+<img data-src="bing-places.webp" style="padding-top: 20px; padding-bottom: 20px;" class="lazyload rounded img-fluid" alt="Inside a Bing Places Profile"><br><br>
+<img data-src="google-my-business-profile-gmb.webp" style="padding-top: 20px; padding-bottom: 20px;" class="lazyload rounded img-fluid" alt="Verified Google My Business Profile"><br><br>
 
 
 
