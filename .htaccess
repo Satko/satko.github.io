@@ -81,3 +81,9 @@ ExpiresByType application/javascript    "access plus 1 week"
   </IfModule>
   
 </IfModule>
+
+#301 Redirects for .htaccess
+
+
+#Redirect an entire site:
+Redirect 301 / https://www.sadstorm.com/
